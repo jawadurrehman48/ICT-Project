@@ -1,7 +1,7 @@
 # ICT-Project 
 <div align="center">
 Home Page
-<img src=".png" width="900">
+<img src="1.png" width="900">
 About Page
 <img src="2.png" width="900">
 Qualification Page
